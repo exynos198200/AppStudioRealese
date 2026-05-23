@@ -23,7 +23,7 @@
 <table align="center">
   <tr>
     <td><a href="https://allwebs.ru/images/2026/05/23/ad2da4e2a56db7cffcffde96da5c24a1.jpg"><img src="https://allwebs.ru/images/2026/05/23/ad2da4e2a56db7cffcffde96da5c24a1.jpg" width="200"></a></td>
-    <td><a href="https://allwebs.ru/images/2026/05/23/348ab32597627f99c53e012309500c93.jpg"><img src="https://allwebs.ru/images/2026/05/23/348ab32597627f99c53e012309500c93.jpg" width="200"></a></td>
+    <td><a href="https://allwebs.ru/image/76886.YrXmi0.jpg"><img src="https://allwebs.ru/image/76886.YrXmi0.jpg" width="200"></a></td>
     <td><a href="https://allwebs.ru/image/76886.YrXmi0"><img src="https://allwebs.ru/image/76886.YrXmi0.jpg" width="200"></a></td>
     <td><a href="https://allwebs.ru/images/2026/05/23/ba4b397b1345f69810609f94ed3c1000.jpg"><img src="https://allwebs.ru/images/2026/05/23/ba4b397b1345f69810609f94ed3c1000.jpg" width="200"></a></td>
   </tr>
