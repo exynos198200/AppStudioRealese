@@ -36,11 +36,12 @@
   </tr>
 </table>
 
-  #### 2. Yandex Music API (Backend)
+  #### 2. Yandex Music API
 *Сервис для работы с API Яндекс.Музыки.*
-* **Стек:** Node.js, TypeScript.
+* **Стек:** Python (FAST API), React, TypeScript.
 * **Что сделано:** Реализовал авторизацию, парсинг треков, взаимодействие с API.
-* [🔗 Посмотреть код на GitHub](https://github.com/exynos198200/server-for-yandex-music)
+* [🔗 Посмотреть код на GitHub Backend](https://github.com/exynos198200/server-for-yandex-music)
+* [🔗 Посмотреть код на GitHub APP](https://github.com/exynos198200/yandex-music)
 ---
 
 ### 💡 Мой подход к работе
