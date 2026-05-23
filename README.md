@@ -1,2 +1,28 @@
-# AppStudioRealese
-Mobile application for creation mobile and computer applications
+# Привет, я разработчик Full Stack
+
+Архитектор и разработчик с фокусом на масштабируемые системы, облачную автоматизацию и современный UI/UX. 
+
+### 🛠 Мой стек
+* **Frontend:** React, TypeScript, Vite, Axios, State Management (Zustand/Redux).
+* **Backend:** .NET 8 (ASP.NET Core), Entity Framework Core, Python (FastAPI).
+* **Infrastructure:** Docker, GitHub Actions (CI/CD), PostgreSQL.
+* **Architecture:** Clean Architecture, Modular Monolith.
+
+---
+
+### 🚀 Ключевые проекты
+
+| Проект | Описание | Стек |
+| :--- | :--- | :--- |
+| **[App Studio Cloud]()** | Платформа для сборки приложений с облачным билдом (GitHub Actions). | React, Electron, TS |
+| **[My Messenger](ССЫЛКА)** | Мессенджер с Real-time обменом данными. | React, Firebase |
+| **[Music Client](ССЫЛКА)** | Клиент для стримингового сервиса с кастомным UI. | React, Vite |
+
+---
+
+### 💡 Мой подход
+- **Product-first:** Мыслю категориями бизнеса и пользователя, а не просто функциями.
+- **Automation:** Внедряю CI/CD (GitHub Actions) для ускорения поставки фич.
+- **Enterprise-grade:** Соблюдаю принципы модульности, типизации (TypeScript) и чистого кода.
+
+📫 **Связь:** [Твой Telegram/Email]
