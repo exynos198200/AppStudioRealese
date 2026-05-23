@@ -6,7 +6,7 @@
 
 ### 🛠 Мой основной стек
 * **Frontend:** React, TypeScript, Vite, Tailwind CSS.
-* **Backend:** Python (FastAPI), владею основами ASP.NET Core
+* **Backend:** Python (FastAPI), владею основами Node.js.
 * **Tools & Infrastructure:** GitHub Actions (CI/CD), PostgreSQL.
 
 ---
@@ -38,7 +38,7 @@
 
   #### 2. Yandex Music API (Backend)
 *Сервис для работы с API Яндекс.Музыки.*
-* **Стек:** Node.js, TypeScript, Express.
+* **Стек:** Node.js, TypeScript.
 * **Что сделано:** Реализовал авторизацию, парсинг треков, взаимодействие с API.
 * [🔗 Посмотреть код на GitHub](ссылка)
 ---
