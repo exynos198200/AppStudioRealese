@@ -1,12 +1,4 @@
-# Привет, я разработчик Full Stack
-
-Архитектор и разработчик с фокусом на масштабируемые системы, облачную автоматизацию и современный UI/UX. 
-
-### 🛠 Мой стек
-* **Frontend:** React, TypeScript, Vite, Axios, State Management (Zustand/Redux).
-* **Backend:** .NET 8 (ASP.NET Core), Entity Framework Core, Python (FastAPI).
-* **Infrastructure:** Docker, GitHub Actions (CI/CD), PostgreSQL.
-* **Architecture:** Clean Architecture, Modular Monolith.
+# Fullstack-разработчик (React/TypeScript, ASP.NET Core)
 
 ---
 
