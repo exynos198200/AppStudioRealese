@@ -14,7 +14,7 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| **[App Studio Cloud]()** | Платформа для сборки приложений с облачным билдом (GitHub Actions). | React, Electron, TS |
+| **[App Studio Cloud](https://drive.google.com/file/d/1bVlup3-nJBLn8js_hAGX6If5c6EgkfUe/view?usp=drivesdk)** | Платформа для сборки приложений с облачным билдом (GitHub Actions). | React, Electron, TS |
 | **[My Messenger](ССЫЛКА)** | Мессенджер с Real-time обменом данными. | React, Firebase |
 | **[Music Client](ССЫЛКА)** | Клиент для стримингового сервиса с кастомным UI. | React, Vite |
 
