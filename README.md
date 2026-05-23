@@ -6,8 +6,8 @@
 
 ### 🛠 Мой основной стек
 * **Frontend:** React, TypeScript, Vite, Tailwind CSS.
-* **Backend:** Владею основами ASP.NET, Python (FastAPI).
-* **Tools & Infrastructure:** Docker, GitHub Actions (CI/CD), PostgreSQL.
+* **Backend:** Python (FastAPI), владею основами ASP.NET Core
+* **Tools & Infrastructure:** GitHub Actions (CI/CD), PostgreSQL.
 
 ---
 
@@ -15,7 +15,7 @@
 
 #### 1. App Studio
 *Платформа для разработки приложений на ПК и телефоне.*
-* **Стек:** React, PostgreSQL.
+* **Стек:** React, TypeScript, FireBase.
 * **Что сделано:** Реализовал авторизацию, настроил REST API, автоматизировал деплой через GitHub Actions.
 * [🔗 Посмотреть код на GitHub](https://github.com/exynos198200/App-Studio)
 * ### 📸 Галерея: App Studio Cloud
